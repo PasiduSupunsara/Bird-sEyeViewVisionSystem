@@ -53,5 +53,5 @@ upcoming weeks implementations
 | 7    | + Match and merge images  | 
 | 8    | + Image stitching         |
 | 9    | + Integration             |
-|      | + Testing                 |
+| Remaining weeks     | + Testing                 |
 
