@@ -25,5 +25,11 @@ Accordingly, the following subtasks need to be addressed:
 + Human detection
 + Resizing
 _ _ _
+
+## Proposed system
+
+![Screenshot 2022-09-19 223543](https://user-images.githubusercontent.com/80567526/191073788-a04fa136-e4c5-4a7b-a59d-c470703de661.png)
+_ _ _
+
 ## Project Plan
 
