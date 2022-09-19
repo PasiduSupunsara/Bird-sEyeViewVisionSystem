@@ -40,3 +40,16 @@ Below is a diagram which describe the implementation of the system.
 
 ## Project Plan
 
+upcoming weeks implementations
+
++ Image distortion
++ Image wraping
++ Camera calibration
++ Human detection
++ Feature extraction
++ Image resizing
++ Match and merge images
++ Image stitching
++ Integration
++ Testing
+
