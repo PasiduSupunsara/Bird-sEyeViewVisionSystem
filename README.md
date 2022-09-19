@@ -28,7 +28,8 @@ _ _ _
 
 ## Proposed system
 
-![Screenshot 2022-09-19 223543](https://user-images.githubusercontent.com/80567526/191073788-a04fa136-e4c5-4a7b-a59d-c470703de661.png)
+![image](https://user-images.githubusercontent.com/80567526/191074579-5e100f2f-caa1-460f-a4fe-dce67e8eccee.png)
+
 _ _ _
 
 ## Project Plan
