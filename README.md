@@ -42,17 +42,16 @@ Below is a diagram which describe the implementation of the system.
 
 upcoming weeks implementations
 
-| Week | Tasks |
-| ------ | ----------- |
-
-| | + Image distortion |
-| | + Image wraping |
-| | + Camera calibration |
-| | + Human detection |
-| | + Feature extraction | 
-| | + Image resizing |
-| | + Match and merge images | 
-| | + Image stitching |
-| | + Integration |
-| | + Testing |
+| Week | Tasks                     |
+| -----| -----------               |
+| 1    | + Image distortion        |
+| 2    | + Image wraping           |
+| 3    | + Camera calibration      |
+| 4    | + Human detection         |
+| 5    | + Feature extraction      | 
+| 6    | + Image resizing          |
+| 7    | + Match and merge images  | 
+| 8    | + Image stitching         |
+| 9    | + Integration             |
+|      | + Testing                 |
 
