@@ -12,5 +12,6 @@ Accordingly, the following subtasks need to be addressed:
 + Image stitching
 + Human detection
 + Resizing
-
+_ _ _
+## Project Plan
 
