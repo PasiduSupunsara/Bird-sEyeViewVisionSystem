@@ -32,6 +32,8 @@ Accordingly, the following subtasks need to be addressed:
 
 ## Proposed system
 
+Below is a diagram which describe the implementation of the system.
+
 ![image](https://user-images.githubusercontent.com/80567526/191074579-5e100f2f-caa1-460f-a4fe-dce67e8eccee.png)
 
 
