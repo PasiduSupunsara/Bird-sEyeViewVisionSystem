@@ -41,8 +41,10 @@ Below is a diagram which describe the implementation of the system.
 ## Project Plan
 
 upcoming weeks implementations
-| Week | Task|
-| _  _ _ _ | _ _ _ _ |
+
+| Option | Description |
+| ------ | ----------- |
+
 + Image distortion
 + Image wraping
 + Camera calibration
