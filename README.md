@@ -7,3 +7,10 @@ Otherwise, the vehicle as well as people and other things around it may pose a s
 to detect potential obstacles behind it. By implementing this camera system with integrated human detection, visibility limitations such as blind spots will be reduced and the operator’s awareness of the vehicle’s surroundings will be increased.
 
 Accordingly, the following subtasks need to be addressed: 
++ Image distortion 
++ Image warping
++ Image stitching
++ Human detection
++ Resizing
+
+
