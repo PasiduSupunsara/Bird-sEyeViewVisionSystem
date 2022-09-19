@@ -44,14 +44,14 @@ upcoming weeks implementations
 
 | Week | Tasks                     |
 | -----| -----------               |
-| 1    | + Image distortion        |
-| 2    | + Image wraping           |
-| 3    | + Camera calibration      |
-| 4    | + Human detection         |
-| 5    | + Feature extraction      | 
-| 6    | + Image resizing          |
-| 7    | + Match and merge images  | 
-| 8    | + Image stitching         |
-| 9    | + Integration             |
-| Remaining weeks     | + Testing                 |
+| 1    |  Image distortion        |
+| 2    |  Image wraping           |
+| 3    |  Camera calibration      |
+| 4    |  Human detection         |
+| 5    |  Feature extraction      | 
+| 6    |  Image resizing          |
+| 7    |  Match and merge images  | 
+| 8    |  Image stitching         |
+| 9    |  Integration             |
+| Remaining weeks     |  Testing                 |
 
