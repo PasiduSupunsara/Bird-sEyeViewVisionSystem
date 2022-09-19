@@ -1,10 +1,10 @@
-_ _ _
+
 
 # Bird's Eye View Vision System
-_ _ _
+
 
 ## Introduction
-_ _ _
+
 
 The goal of this project is to develop a vision system for heavy vehicles.
 There are many problems about operate heavy vehicles such as trucks, 
@@ -28,13 +28,13 @@ Accordingly, the following subtasks need to be addressed:
 + Image stitching
 + Human detection
 + Resizing
-_ _ _
+
 
 ## Proposed system
 
 ![image](https://user-images.githubusercontent.com/80567526/191074579-5e100f2f-caa1-460f-a4fe-dce67e8eccee.png)
 
-_ _ _
+
 
 ## Project Plan
 
